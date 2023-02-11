@@ -33,7 +33,7 @@ def sh_tr(ship):
     browser.get('https://www.hct.com.tw/search/searchgoods_n.aspx')
      
     print ('search shipinfo...')
-    time.sleep(10)
+    time.sleep(5)
     for i in range(len(ship)):
         print (i)
         
