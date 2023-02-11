@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shopee-376709",
+  "private_key_id": "3fe6889189a07f87f208c740afe00a80fbf81aec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1m8F5qB/hcC3P\nhpUB5tp0hIsim80kHZLAzU3COfrqFeC06Ws+tuNE04c72QlzrGgmU46tZEdGqcG8\nAQ7aGn0EJltwlHOjQ8vh5Sp0pm/uxS2oq4qr8kg4YxJVW6yhJuAo5TAjkMrJydEu\nMHxcyCYglaBpraYSvrjA/rCvY0gg/TPi8c16XSgFwuyp1CJzhslg0lCSiw07TPeh\nqD1N1ss3fWvu9Snp5YaStFNe0OZrPLlQakaR6C1Jng0o5mBQEgKHA5GtPGuEA+fV\nCZwheC9qGZXK6cJ/tVO9TjdXpAsKD9FvX6/xwml1bOB8p5mXZQfaboK39UYc8Are\n8LsVGxcPAgMBAAECggEACZ2bmuNp/LfB1TEdBqLAglbaPxTcwcLHGGpGabhELszF\nvw503Tc1xVkl2edd9r/0K8NU1J1woK8wUNIFhUrNv8CAKu/RR525V9aYbuC5IH1U\nM5ARoZUMed/VAqv98fJq//9Sky+BbTnAV5+9lfQLAMKrYa0OFAQBKEbT+BVbplNq\n2VtCoQ1cxGBX9GzPEvy25VHOysq1HwX/1cXAFEJPBaH3X4r/0RXX8g8fe1abETC2\ndAUwWumpDy6DkL3XXRktdEoyEBzfMv9X9DJ8BHgbytV9l4xTJ0vcZiy9bw9cqcwC\ndLWe1nV8wzx0DnQee5WOCthBec26jYKIBuJMmwwqIQKBgQDp1FRBrr3xORxnUz+d\nPNx+LZffxrP1mlKhmIOv5hNR7crcz+mzDOt+HpjYM87fHZLCTsk6/An0bNeOHnrb\nlvUcVhxz5NrZLn25AVUZyslhJIQB7I/gkIie0A63wBPS6nBIHJl7LfEFBLfjpcxn\n6pCqPOQZ8Ngpl/0SRmVJ2xEgKQKBgQDG0+Hc7NJHo7JysK1YhVM/ZMDZztQACmTN\n3Q5If6NcX1CC6SlRFYN5VjksMcnt8JNqe/mMPe1GOjTPEWYNI08sURg5f91qzNo3\nazUCfVTtoWnfCurfdDC2jBNo4lAOIjq9ppPG+0Xd9+vH8waBOghUu55z1vXWMaaS\n+g0tQRCEdwKBgAbUNqm8aruyyUuTONZkwqPEvRzB9tuDaEpj4+StOX85DKWqRM7/\n35jNV/VoffAyMukN1/6rAbdrvlfeOARVwk7TjP0tf9675twSV+Pq8jquEFTmDcWn\nMvZAaU2ghHOyeRkCDNF2JAXbf2tcmj2mshbmtFq1l/qO/8sa1zZy+WsRAoGAQJu5\nWUDbU8wtwHcI3Sr10jO7NwuueBTojLy4V3aibvHKB8AcXOzQvCz4hxPmuhrizEdc\n3+V/pMJlRqQwtTQ0FgKEDKswF/RZNIjxwM1ZO56n+IJjsBjhe3ApHnvr56vXyqjG\nfHJKUcauJ1shUfy5mE8fPiUr3V5k8n2uqnXqGCECgYEAtU6liJBn+q1SKXR835AR\nFDMV5/YmMZ+H9+BQXO/XHVC6xFmTJ4WliUfQwkPT1lT1qFdcF2u47C7JGWjQIGsm\nsifMk9iE5HT9c7xi4toW2S+ieYLxscSKIjaM7brAVHFHoGqRM2BILPtuY4H4UYBn\nm1ODzncE4E/8tAoorf2nsb4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "crawler-01@shopee-376709.iam.gserviceaccount.com",
+  "client_id": "101368677661563541429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crawler-01%40shopee-376709.iam.gserviceaccount.com"
+}

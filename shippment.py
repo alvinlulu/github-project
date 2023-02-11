@@ -89,17 +89,17 @@ def sh_tr(ship):
     return jdata
 
 
-#------big query----
-# =============================================================================
-# credentials = service_account.Credentials.from_service_account_file('stocks-bigquery-key.json')
-# 	
-# client = bigquery.Client(credentials=credentials)
-#   
-# table_id = 'shopee-376709.shippment.dataid'
-#   
-# job = client.load_table_from_dataframe(dfData, table_id)
-# job.result()
-#   
-# table = client.get_table(table_id)
-# print(f'已存入{table.num_rows}筆資料到{table_id}')
-# =============================================================================
+------big query----
+ =============================================================================
+ credentials = service_account.Credentials.from_service_account_file('stocks-bigquery-key.json')
+ 	
+ client = bigquery.Client(credentials=credentials)
+   
+ table_id = 'shopee-376709.shippment.dataid'
+   
+ job = client.load_table_from_dataframe(dfData, table_id)
+ job.result()
+   
+ table = client.get_table(table_id)
+ print(f'已存入{table.num_rows}筆資料到{table_id}')
+ =============================================================================
