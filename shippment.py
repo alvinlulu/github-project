@@ -70,7 +70,7 @@ def sh_tr(ship):
     chcode = browser.find_element(By.CLASS_NAME, 'chktxt')
     chcode.send_keys(str(code))
     chcode.send_keys('\ue007') # 按下Enter
-    time.sleep(10)
+    time.sleep(5)
     for i in range(len(ship)):
         catch_num.append(browser.find_element(By.ID, 'ctl00_ContentFrame_rtprt_ctl0' + str(i) + '_L_inv').text)
         catch_uptime.append(browser.find_element(By.ID, 'ctl00_ContentFrame_rtprt_ctl0' + str(i) + '_L_tim').text)
